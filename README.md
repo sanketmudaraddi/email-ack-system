@@ -1,4 +1,4 @@
-# **Email Timestamping and Management System**
+# **Email Automation Suite: Timestamping and Acknowledgment**
 
 This project is a Node.js application for processing emails with timestamping, printing, and acknowledgment functionalities. The application provides APIs to:
 - Save emails with timestamps.
