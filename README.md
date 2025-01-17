@@ -36,8 +36,8 @@ The project uses **Express** (API framework), **Nodemailer** (email sending), **
 ### **Steps**
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd email-timestamping-system
+   git clone https://github.com/sanketmudaraddi/email-ack-system.git
+   cd email-ack-system
    ```
 
 2. Install dependencies:
